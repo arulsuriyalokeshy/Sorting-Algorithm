@@ -62,13 +62,14 @@ insertion_sort(list_of_nums)
 # print the sorted list
 ```
 ## Output:
-i)	#Selection Sort
+i)	#Selection Sort:
+
+
 ![image](https://github.com/arulsuriyalokeshy/Sorting-Algorithm/assets/149130151/f66924bd-a23c-4e11-8be6-5177dca2b5b0)
 
-ii)	#Insertion Sort
+ii)	#Insertion Sort:
+
+
 ![image](https://github.com/arulsuriyalokeshy/Sorting-Algorithm/assets/149130151/7c8d0e29-8f3b-4744-8af3-9d8b8898bbf6)
-
-
-
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
